@@ -13,7 +13,7 @@ app.use(cors());
 
 // primary  API
 app.get("/", (req, res) => {
-  res.send("BD Server is running");
+  res.send("BD Travel Server is running");
 });
 
 // Places API
@@ -33,6 +33,10 @@ app.get("/place/hotels/:id", (req, res) => {
   const id = parseInt(req.params.id);
   const place = places.places.find((p) => p.id === id) || [];
   res.json(place.hotels);
+});
+
+app.get("*", (req, res) => {
+  res.json("[]");
 });
 
 app.listen(port, () => {
