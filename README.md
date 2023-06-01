@@ -18,4 +18,6 @@ This is a basic express server. We have 3 different API for for connunicate fo b
 
 #### Get Hotels
 
-`http http://localhost:5000/place/hotels/${id} `
+```http
+  http://localhost:5000/place/hotels/${id}
+```
