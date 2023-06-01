@@ -7,17 +7,17 @@ This is a basic express server. We have 3 different API for for connunicate fo b
 #### Get all places
 
 ```http
-  GET http://localhost:5000/places/
+  http://localhost:5000/places/
 ```
 
 #### Get Single place
 
 ```http
-  GET http://localhost:5000/place/${id}
+  http://localhost:5000/place/${id}
 ```
 
-### Get Hotels
+#### Get Hotels
 
 ```http
-   GET http://localhost:5000/place/hotels/${id}
+   http://localhost:5000/place/hotels/${id}
 ```
