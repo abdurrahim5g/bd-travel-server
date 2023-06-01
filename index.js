@@ -3,6 +3,9 @@ const app = express();
 const cors = require("cors");
 const port = 5000;
 
+// apply reload package
+const http = require("http");
+
 // data
 const places = require("./data/places.json");
 
@@ -15,7 +18,21 @@ app.get("/", (req, res) => {
 
 // Places API
 app.get("/places", (req, res) => {
-  res.json(places);
+  res.json(places.places);
+});
+
+// Places API
+app.get("/place/:id", (req, res) => {
+  const id = parseInt(req.params.id);
+  const place = places.places.find((p) => p.id === id) || [];
+  res.json(place);
+});
+
+// get hotels
+app.get("/place/hotels/:id", (req, res) => {
+  const id = parseInt(req.params.id);
+  const place = places.places.find((p) => p.id === id) || [];
+  res.json(place.hotels);
 });
 
 app.listen(port, () => {
