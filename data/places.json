@@ -6,13 +6,14 @@
         "area": "Cox's Bazar District",
         "description": "Cox's Bazar is the world's longest uninterrupted natural sandy beach, stretching over 120 kilometers. It is a popular tourist destination known for its breathtaking sunset views and serene atmosphere.",
         "attractions": ["Cox's Bazar Beach", "Himchori Waterfall", "Inani Beach", "Moheshkhali Island", "Sonadia Island"],
-        "image_url": "image_url",
+        "image_url": "https://tbbd-flight.s3.ap-southeast-1.amazonaws.com/blog1arb4VjtxhzvyUzrt9bZzuI-hlEst52F.jpg",
         "hotels": [
           {
             "name": "Royal Tulip Sea Pearl Beach Resort & Spa",
             "description": "A luxurious beachfront resort offering spacious rooms, a spa, multiple dining options, and a pool overlooking the Bay of Bengal.",
             "rating": 4.5,
-            "price": "$$"
+            "price": "$$",
+            "img": "https://seapearlcoxsbazar.com/images/contact-0.jpg"
           }
         ],
         "rating": 4.5
@@ -23,13 +24,14 @@
         "area": "Khulna Division",
         "description": "The Sundarbans is the largest mangrove forest in the world and a UNESCO World Heritage Site. It is home to the Royal Bengal Tigers and offers unique wildlife and nature experiences.",
         "attractions": ["Tiger Point", "Kotka Beach", "Karamjal Wildlife Sanctuary", "Dublar Char", "Sundarbans National Park"],
-        "image_url": "image_url",
+        "image_url": "https://i.natgeofe.com/n/a50f7239-ff6d-4874-9448-25d94d8d1c80/sundarbans-bangladesh_16x9.jpg?w=1200",
         "hotels": [
           {
             "name": "Sundarbans Tiger Camp",
             "description": "An eco-friendly resort nestled in the heart of the Sundarbans, offering comfortable accommodations, guided tours, and wildlife experiences.",
             "rating": 4.7,
-            "price": "$$"
+            "price": "$$",
+            "img": "https://www.experiencetravelgroup.com/reposit/20150709104743.jpg"
           }
         ],
         "rating": 4.7
@@ -40,19 +42,21 @@
         "area": "Cox's Bazar District",
         "description": "Saint Martin's Island is a small coral island in the Bay of Bengal. It is known for its pristine beaches, crystal-clear waters, and vibrant marine life, making it a popular destination for snorkeling and diving enthusiasts.",
         "attractions": ["Chera Dwip", "Coral Reef", "Blue Lagoon", "Coconut Grove"],
-        "image_url": "image_url",
+        "image_url": "https://images.unsplash.com/photo-1611563780943-76813488c06f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNjAxMTJ8MHwxfGFsbHx8fHx8fHx8fDE2Mjk3OTA5MTI&ixlib=rb-1.2.1&q=80&w=1080",
         "hotels": [
           {
             "name": "Blue Marine Resort",
             "description": "A beachfront resort offering comfortable rooms, a restaurant serving fresh seafood, and easy access to the island's attractions.",
             "rating": 4.3,
-            "price": "$"
+            "price": "$",
+            "img": "https://www.bdbooking.com/upload/property/hotel/021220200544254005e4390b943944.jpeg"
           },
           {
             "name": "Coral View Resort",
             "description": "A cozy resort located near the beach, providing simple accommodations, a restaurant, and friendly staff.",
             "rating": 4.1,
-            "price": "$"
+            "price": "$",
+            "img": "https://static.wixstatic.com/media/010859_50a4a01aba104386b97390dad761c3ab~mv2.jpg/v1/fill/w_640,h_426,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/010859_50a4a01aba104386b97390dad761c3ab~mv2.jpg"
           }
         ],
         "rating": 4.3
@@ -63,19 +67,21 @@
         "area": "Chittagong Hill Tracts",
         "description": "Bandarban is a scenic hill district known for its lush green landscapes, tribal culture, and picturesque hiking trails. It offers stunning viewpoints, waterfalls, and the opportunity to explore indigenous communities.",
         "attractions": ["Nilgiri Hill", "Chimbuk Hill", "Boga Lake", "Shoilo Propat", "Golden Temple"],
-        "image_url": "image_url",
+        "image_url": "https://cosmosgroup.sgp1.cdn.digitaloceanspaces.com/news/y8eC0WBzPEEVyKIGGjcM3zKIgirEYLTLvioF3GaP.jpeg",
         "hotels": [
           {
             "name": "Hillside Resort",
             "description": "A peaceful resort situated amidst nature, providing comfortable accommodations, a restaurant, and panoramic views of the surrounding hills.",
             "rating": 4.6,
-            "price": "$$"
+            "price": "$$",
+            "img": "https://hillsideresort.in/wp-content/uploads/2022/05/WhatsApp-Image-2022-05-03-at-11.05.33-PM-1-629x367.jpeg"
           },
           {
             "name": "Hill View Resort",
             "description": "A budget-friendly resort offering basic amenities, friendly service, and easy access to Bandarban's attractions.",
             "rating": 4.0,
-            "price": "$"
+            "price": "$",
+            "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/cc/27/77/hotel-hill-view.jpg?w=700&h=-1&s=1"
           }
         ],
         "rating": 4.6
@@ -86,19 +92,21 @@
         "area": "Sylhet Division",
         "description": "Sylhet is a scenic city surrounded by tea gardens, hills, and waterfalls. It is famous for its vibrant culture, historical landmarks, and the enchanting beauty of the Sylheti countryside.",
         "attractions": ["Jaflong", "Ratargul Swamp Forest", "Bisnakandi", "Lalakhal", "Srimangal Tea Gardens"],
-        "image_url": "image_url",
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/1e/4a/33/pangthumai-waterfall.jpg?w=1200&h=-1&s=1",
         "hotels": [
           {
             "name": "Rose View Hotel",
             "description": "A luxury hotel offering comfortable rooms, a rooftop restaurant with panoramic city views, a spa, and conference facilities.",
             "rating": 4.4,
-            "price": "$$"
+            "price": "$$",
+            "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/7d/f1/cf/executive-suit.jpg?w=700&h=-1&s=1"
           },
           {
             "name": "Hotel Star Pacific",
             "description": "A modern hotel located in the heart of the city, providing comfortable accommodations, a restaurant, and meeting rooms.",
             "rating": 4.2,
-            "price": "$"
+            "price": "$",
+            "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304658253.jpg?k=2e32bdaebee9f093c2d52b9555f5903f042697d870271392ed5aeff65f07c768&o=&hp=1"
           }
         ],
         "rating": 4.4
@@ -109,19 +117,21 @@
         "area": "Chittagong Hill Tracts",
         "description": "Rangamati is a picturesque district located on the banks of the Kaptai Lake. It offers breathtaking views of the lake, hills covered in lush greenery, and opportunities for boating and exploring indigenous villages.",
         "attractions": ["Kaptai Lake", "Shuvolong Waterfall", "Rangamati Hanging Bridge", "Tribal Museum", "Rajban Bihar Pagoda"],
-        "image_url": "image_url",
+        "image_url": "https://lp-cms-production.imgix.net/2022-03/GettyRF_518168150.jpg",
         "hotels": [
           {
             "name": "Parjatan Hotel",
             "description": "A government-run hotel overlooking the Kaptai Lake, offering comfortable rooms, a restaurant, and a range of amenities.",
             "rating": 4.2,
-            "price": "$"
+            "price": "$",
+            "img": "https://hotels.gov.bd/images/hotel_4/room_type_8/room_type_191624163853.jpg"
           },
           {
             "name": "Hotel Sufia International",
             "description": "A well-known hotel in Rangamati, providing comfortable accommodations, a restaurant serving local and international cuisine, and friendly service.",
             "rating": 3.9,
-            "price": "$$"
+            "price": "$$",
+            "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/23/86/09/hotel-sufia-international.jpg?w=1200&h=-1&s=1"
           }
         ],
         "rating": 4.2
@@ -132,19 +142,21 @@
         "area": "Patuakhali District",
         "description": "Kuakata is a unique beach town located on the southernmost tip of Bangladesh. It is known for its panoramic views of the Bay of Bengal, pristine beach, and the spectacular sight of both sunrise and sunset.",
         "attractions": ["Kuakata Beach", "Lebur Char", "Gangamati Reserved Forest", "Misripara Buddhist Temple"],
-        "image_url": "image_url",
+        "image_url": "https://porzoton.com/wp-content/uploads/2020/04/Red-Crab-Island-Kuakata.jpg",
         "hotels": [
           {
             "name": "Hotel Kuakata Inn",
             "description": "A budget-friendly hotel offering comfortable rooms, a restaurant serving local cuisine, and easy access to the beach.",
             "rating": 4.1,
-            "price": "$"
+            "price": "$",
+            "img": "https://media-cdn.tripadvisor.com/media/photo-s/0a/a9/a0/a7/hotel-kuakata-international.jpg"
           },
           {
             "name": "Hotel Star International",
             "description": "A modest hotel located near Kuakata Beach, providing simple accommodations, a rooftop restaurant, and friendly staff.",
             "rating": 3.8,
-            "price": "$"
+            "price": "$",
+            "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/ae/ec/98/super-deluxe-luxuries.jpg?w=1200&h=-1&s=1"
           }
         ],
         "rating": 4.1
@@ -155,19 +167,21 @@
         "area": "Naogaon District",
         "description": "Paharpur is home to the UNESCO World Heritage Site known as the Somapura Mahavihara. It is one of the largest and best-preserved Buddhist monasteries in South Asia, dating back to the 8th century.",
         "attractions": ["Somapura Mahavihara", "Kusumba Mosque", "Behula Lakshindar Basor Ghar"],
-        "image_url": "image_url",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Paharpur_Buddhist_Bihar.jpg/1280px-Paharpur_Buddhist_Bihar.jpg",
         "hotels": [
           {
             "name": "Parjatan Motel",
             "description": "A government-operated motel located near the archaeological site, offering basic accommodations, a restaurant, and a peaceful environment.",
             "rating": 3.9,
-            "price": "$"
+            "price": "$",
+            "img": "https://hotels.gov.bd/images/hotel_4/room_type_10/room_type_411624471305.jpg"
           },
           {
             "name": "Hotel Parbati International",
             "description": "A budget-friendly hotel in Paharpur, providing simple accommodations, a restaurant, and friendly service.",
             "rating": 3.7,
-            "price": "$"
+            "price": "$",
+            "img": "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/ed/e3/oyo-28631-hotel-parbati.jpg"
           }
         ],
         "rating": 4.0
@@ -178,19 +192,21 @@
         "area": "Sylhet Division",
         "description": "Jaflong is a scenic hill station known for its rolling hills, tea gardens, and the crystal-clear water of the Dawki River. It offers mesmerizing views, opportunities for boating, and glimpses of the indigenous Khasi community.",
         "attractions": ["Dawki River", "Zero Point", "Tamabil-Jaflong Border"],
-        "image_url": "image_url",
+        "image_url": "https://www.travelmate.com.bd/wp-content/uploads/2019/07/Jaflong-Travel.jpg",
         "hotels": [
           {
             "name": "Jaflong Valley Resort",
             "description": "A riverside resort offering comfortable accommodations, a restaurant serving local cuisine, and beautiful views of the surrounding landscape.",
             "rating": 4.3,
-            "price": "$$"
+            "price": "$$",
+            "img": "https://scontent.fdac22-1.fna.fbcdn.net/v/t39.30808-6/349324425_921054005840318_8846840068936333265_n.jpg?_nc_cat=103&cb=99be929b-59f725be&ccb=1-7&_nc_sid=730e14&_nc_ohc=j6Ta2vx63UoAX-b8saD&_nc_ht=scontent.fdac22-1.fna&oh=00_AfBbAuXqQPJIjF0dMGaXZvO3dEyz6awJJq42Zje6s_WSqg&oe=647CE554"
           },
           {
             "name": "Jaflong Rest House",
             "description": "A government-run rest house located in Jaflong, providing basic accommodations, a restaurant, and a peaceful atmosphere.",
             "rating": 3.9,
-            "price": "$"
+            "price": "$",
+            "img": "https://dkavqk5moymop.cloudfront.net/Global/WhatToExpect/JaflongGreen3/fc522e110d6045978039ac00fed9dfe5_305957161_447285980751957_7699706325337714712_n.jpg"
           }
         ],
         "rating": 4.3
@@ -201,19 +217,21 @@
         "area": "Rajshahi Division",
         "description": "Rajshahi is a historically rich city known for its archaeological sites, ancient temples, and mango orchards. It offers a glimpse into Bangladesh's cultural heritage and is home to the famous Puthia Temple Complex.",
         "attractions": ["Puthia Temple Complex", "Varendra Research Museum", "Bagha Mosque", "Choto Sona Mosque"],
-        "image_url": "image_url",
+        "image_url": "https://scontent.fdac22-1.fna.fbcdn.net/v/t39.30808-6/326257718_489385106691172_183792967134106458_n.jpg?_nc_cat=102&cb=99be929b-59f725be&ccb=1-7&_nc_sid=e3f864&_nc_ohc=2LZwI7Yoxg8AX81l18F&_nc_ht=scontent.fdac22-1.fna&oh=00_AfDDcKsWcGW7b_7J7AkO2YLU5ihqwrmS9mHzXNOCxfCX7g&oe=647D92BE",
         "hotels": [
           {
             "name": "Hotel Nice International",
             "description": "A comfortable hotel located in the heart of Rajshahi, offering spacious rooms, a restaurant, and easy access to the city's attractions.",
             "rating": 4.2,
-            "price": "$$"
+            "price": "$$",
+            "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/d1/93/46/hotel-nice-international.jpg?w=600&h=-1&s=1"
           },
           {
             "name": "Chez Razzak",
             "description": "A cozy guesthouse with a traditional touch, providing comfortable accommodations, a restaurant serving local cuisine, and a warm ambiance.",
             "rating": 4.0,
-            "price": "$"
+            "price": "$",
+            "img": "https://chezrazzakservice.com/wp-content/uploads/2018/05/chez-gallary5.jpg"
           }
         ],
         "rating": 4.2
