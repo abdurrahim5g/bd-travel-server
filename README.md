@@ -12,7 +12,9 @@ This is a basic express server. We have 3 different API for for connunicate fo b
 
 #### Get Single place
 
-`http http://localhost:5000/place/${id}`
+```http
+  http http://localhost:5000/place/${id}
+```
 
 #### Get Hotels
 
