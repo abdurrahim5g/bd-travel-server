@@ -1,45 +1,46 @@
+
 {
     "blogs": [
       {
         "id": 1,
         "title": "Wanderlust Adventures",
         "desc": "Embark on a mesmerizing journey around the globe with 'Wanderlust Adventures.' Join a passionate traveler as they traverse continents, sharing captivating stories, stunning photographs, and insightful travel tips. From remote islands to bustling cities, immerse yourself in the beauty of diverse landscapes, encounter fascinating cultures, and unlock hidden gems off the beaten path. Discover the joy of exploration, learn from enriching experiences, and ignite your own wanderlust through this inspirational travel blog.",
-        "image": "image_url_1",
+        "image": "https://cdn.pixabay.com/photo/2015/10/30/20/13/sunrise-1014712_1280.jpg",
         "tips": "Discover hidden gems, immerse in local cultures, and pack light for seamless adventures."
       },
       {
         "id": 2,
         "title": "Roaming Nomads",
         "desc": "Embark on a transformative journey with the intrepid nomads of 'Roaming Nomads.' Travel alongside seasoned adventurers as they traverse the globe, unearthing awe-inspiring landscapes, vibrant cultures, and authentic experiences. From epic road trips to remote hikes, this blog brings you closer to the essence of wanderlust. Immerse yourself in inspiring narratives, breathtaking visuals, and practical travel advice that will ignite your passion for exploration and inspire you to embark on your own nomadic journey.",
-        "image": "image_url_2",
+        "image": "https://cdn.pixabay.com/photo/2017/01/20/00/30/maldives-1993704_1280.jpg",
         "tips": "Embrace spontaneity, connect with fellow travelers, and document memories through travel journals."
       },
       {
         "id": 3,
         "title": "Adventurous Trails",
         "desc": "Prepare for adrenaline-pumping adventures with 'Adventurous Trails.' Follow passionate thrill-seekers as they embark on epic expeditions, uncovering the world's most exhilarating activities. From scaling majestic peaks to diving into underwater wonders, this blog pushes boundaries and invites you to join the adventure. Get practical tips, gear recommendations, and firsthand accounts of adrenaline-fueled escapades. Discover your adventurous spirit, challenge your limits, and embrace the thrill of stepping outside your comfort zone.",
-        "image": "image_url_3",
+        "image": "https://cdn.pixabay.com/photo/2018/07/16/16/08/island-3542290_1280.jpg",
         "tips": "Prepare with proper gear, follow safety guidelines, and embrace the thrill of stepping outside your comfort zone."
       },
       {
         "id": 4,
         "title": "Cultural Wanderer",
         "desc": "Embark on a journey of cultural discovery with 'Cultural Wanderer.' Immerse yourself in the richness of diverse cultures, from ancient traditions to modern marvels. This blog unravels the tapestry of global heritage, offering insightful narratives, stunning photography, and tips for meaningful cultural experiences. Explore UNESCO World Heritage Sites, traditional festivals, and local cuisines as you gain a deeper understanding of the world's cultural diversity. Respectful and immersive, 'Cultural Wanderer' celebrates the beauty of human creativity and invites you to connect with people and traditions from around the globe.",
-        "image": "image_url_4",
+        "image": "https://cdn.pixabay.com/photo/2017/08/06/12/06/people-2591874_1280.jpg",
         "tips": "Respect local customs, try traditional cuisines, and engage in cultural exchanges for a meaningful journey."
       },
       {
         "id": 5,
         "title": "Family Explorers",
         "desc": "Embark on unforgettable adventures with the whole family through 'Family Explorers.' Discover kid-friendly destinations, travel hacks, and tips for making lasting memories with your loved ones. This blog provides a wealth of resources for planning family-friendly trips, including age-appropriate activities, travel safety advice, and strategies for creating magical moments. Whether it's a beach getaway, a wildlife safari, or a cultural exploration, 'Family Explorers' helps you create memorable experiences that strengthen family bonds and ignite the spirit of adventure in children of all ages.",
-        "image": "image_url_5",
+        "image": "https://cdn.pixabay.com/photo/2018/10/19/12/14/train-3758523_1280.jpg",
         "tips": "Plan age-appropriate activities, prioritize safety, and involve children in the trip planning process for an enjoyable family experience."
       },
       {
         "id": 6,
         "title": "Luxury Escapes",
         "desc": "Indulge in opulent travel experiences with 'Luxury Escapes.' Immerse yourself in a world of refined elegance, exclusive resorts, and impeccable services. This blog unveils the epitome of luxury travel, offering insights into lavish accommodations, fine dining experiences, rejuvenating spa treatments, and tailor-made itineraries. Discover breathtaking destinations where sophistication meets unparalleled comfort. 'Luxury Escapes' is your guide to indulgence, providing recommendations, tips, and inspiration for creating extraordinary travel experiences that redefine luxury.",
-        "image": "image_url_6",
+        "image": "https://cdn.pixabay.com/photo/2017/12/15/13/51/polynesia-3021072_1280.jpg",
         "tips": "Research luxury accommodations, savor fine dining experiences, and pamper yourself with rejuvenating spa treatments."
       }
     ]
