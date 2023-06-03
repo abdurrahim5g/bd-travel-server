@@ -8,6 +8,7 @@ const http = require("http");
 
 // data
 const places = require("./data/places.json");
+const blogs = require("./data/blogs.json");
 
 app.use(cors());
 
@@ -33,6 +34,18 @@ app.get("/place/hotels/:id", (req, res) => {
   const id = parseInt(req.params.id);
   const place = places.places.find((p) => p.id === id) || [];
   res.json(place.hotels);
+});
+
+// get blogs
+app.get("/blogs", (req, res) => {
+  res.send(blogs.blogs);
+});
+
+// get single blog
+app.get("/blogs/:id", (req, res) => {
+  const id = parseInt(req.params.id);
+  const blog = blogs.blogs.find((blog) => blog.id === id) || [];
+  res.send(blog);
 });
 
 app.get("*", (req, res) => {
